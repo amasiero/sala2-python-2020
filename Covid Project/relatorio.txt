@@ -1,0 +1,1011 @@
+----------------------------------------
+Data: 2019-12-31
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-01
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-02
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-03
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-04
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-05
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-06
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-07
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-08
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-09
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-10
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-11
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-12
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-13
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-14
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-15
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-16
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-17
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-18
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-19
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-20
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-21
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-22
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-23
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-24
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-25
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-26
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-27
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-28
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-29
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-30
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-01-31
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-01
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-02
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-03
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-04
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-05
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-06
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-07
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-08
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-09
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-10
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-11
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-12
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-13
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-14
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-15
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-16
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-17
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-18
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-19
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-20
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-21
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-22
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-23
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-24
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-25
+Ocorreram 0 casos novos.
+Total acumulado de 0 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-26
+Ocorreram 1 casos novos.
+Total acumulado de 1 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-27
+Ocorreram 0 casos novos.
+Total acumulado de 1 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-28
+Ocorreram 0 casos novos.
+Total acumulado de 1 casos.
+Media movel: 0 casos.
+----------------------------------------
+Data: 2020-02-29
+Ocorreram 0 casos novos.
+Total acumulado de 1 casos.
+Media movel: 1 casos.
+----------------------------------------
+Data: 2020-03-01
+Ocorreram 1 casos novos.
+Total acumulado de 2 casos.
+Media movel: 2 casos.
+----------------------------------------
+Data: 2020-03-02
+Ocorreram 0 casos novos.
+Total acumulado de 2 casos.
+Media movel: 2 casos.
+----------------------------------------
+Data: 2020-03-03
+Ocorreram 0 casos novos.
+Total acumulado de 2 casos.
+Media movel: 3 casos.
+----------------------------------------
+Data: 2020-03-04
+Ocorreram 0 casos novos.
+Total acumulado de 2 casos.
+Media movel: 3 casos.
+----------------------------------------
+Data: 2020-03-05
+Ocorreram 1 casos novos.
+Total acumulado de 3 casos.
+Media movel: 5 casos.
+----------------------------------------
+Data: 2020-03-06
+Ocorreram 5 casos novos.
+Total acumulado de 8 casos.
+Media movel: 7 casos.
+----------------------------------------
+Data: 2020-03-07
+Ocorreram 5 casos novos.
+Total acumulado de 13 casos.
+Media movel: 10 casos.
+----------------------------------------
+Data: 2020-03-08
+Ocorreram 0 casos novos.
+Total acumulado de 13 casos.
+Media movel: 12 casos.
+----------------------------------------
+Data: 2020-03-09
+Ocorreram 12 casos novos.
+Total acumulado de 25 casos.
+Media movel: 15 casos.
+----------------------------------------
+Data: 2020-03-10
+Ocorreram 0 casos novos.
+Total acumulado de 25 casos.
+Media movel: 25 casos.
+----------------------------------------
+Data: 2020-03-11
+Ocorreram 9 casos novos.
+Total acumulado de 34 casos.
+Media movel: 30 casos.
+----------------------------------------
+Data: 2020-03-12
+Ocorreram 18 casos novos.
+Total acumulado de 52 casos.
+Media movel: 37 casos.
+----------------------------------------
+Data: 2020-03-13
+Ocorreram 25 casos novos.
+Total acumulado de 77 casos.
+Media movel: 54 casos.
+----------------------------------------
+Data: 2020-03-14
+Ocorreram 21 casos novos.
+Total acumulado de 98 casos.
+Media movel: 78 casos.
+----------------------------------------
+Data: 2020-03-15
+Ocorreram 23 casos novos.
+Total acumulado de 121 casos.
+Media movel: 115 casos.
+----------------------------------------
+Data: 2020-03-16
+Ocorreram 79 casos novos.
+Total acumulado de 200 casos.
+Media movel: 144 casos.
+----------------------------------------
+Data: 2020-03-17
+Ocorreram 34 casos novos.
+Total acumulado de 234 casos.
+Media movel: 192 casos.
+----------------------------------------
+Data: 2020-03-18
+Ocorreram 57 casos novos.
+Total acumulado de 291 casos.
+Media movel: 237 casos.
+----------------------------------------
+Data: 2020-03-19
+Ocorreram 137 casos novos.
+Total acumulado de 428 casos.
+Media movel: 273 casos.
+----------------------------------------
+Data: 2020-03-20
+Ocorreram 193 casos novos.
+Total acumulado de 621 casos.
+Media movel: 286 casos.
+----------------------------------------
+Data: 2020-03-21
+Ocorreram 283 casos novos.
+Total acumulado de 904 casos.
+Media movel: 328 casos.
+----------------------------------------
+Data: 2020-03-22
+Ocorreram 224 casos novos.
+Total acumulado de 1128 casos.
+Media movel: 359 casos.
+----------------------------------------
+Data: 2020-03-23
+Ocorreram 418 casos novos.
+Total acumulado de 1546 casos.
+Media movel: 397 casos.
+----------------------------------------
+Data: 2020-03-24
+Ocorreram 345 casos novos.
+Total acumulado de 1891 casos.
+Media movel: 387 casos.
+----------------------------------------
+Data: 2020-03-25
+Ocorreram 310 casos novos.
+Total acumulado de 2201 casos.
+Media movel: 384 casos.
+----------------------------------------
+Data: 2020-03-26
+Ocorreram 232 casos novos.
+Total acumulado de 2433 casos.
+Media movel: 502 casos.
+----------------------------------------
+Data: 2020-03-27
+Ocorreram 482 casos novos.
+Total acumulado de 2915 casos.
+Media movel: 629 casos.
+----------------------------------------
+Data: 2020-03-28
+Ocorreram 502 casos novos.
+Total acumulado de 3417 casos.
+Media movel: 714 casos.
+----------------------------------------
+Data: 2020-03-29
+Ocorreram 487 casos novos.
+Total acumulado de 3904 casos.
+Media movel: 806 casos.
+----------------------------------------
+Data: 2020-03-30
+Ocorreram 352 casos novos.
+Total acumulado de 4256 casos.
+Media movel: 911 casos.
+----------------------------------------
+Data: 2020-03-31
+Ocorreram 323 casos novos.
+Total acumulado de 4579 casos.
+Media movel: 982 casos.
+----------------------------------------
+Data: 2020-04-01
+Ocorreram 1138 casos novos.
+Total acumulado de 5717 casos.
+Media movel: 1068 casos.
+----------------------------------------
+Data: 2020-04-02
+Ocorreram 1119 casos novos.
+Total acumulado de 6836 casos.
+Media movel: 1143 casos.
+----------------------------------------
+Data: 2020-04-03
+Ocorreram 1074 casos novos.
+Total acumulado de 7910 casos.
+Media movel: 1299 casos.
+----------------------------------------
+Data: 2020-04-04
+Ocorreram 1146 casos novos.
+Total acumulado de 9056 casos.
+Media movel: 1421 casos.
+----------------------------------------
+Data: 2020-04-05
+Ocorreram 1222 casos novos.
+Total acumulado de 10278 casos.
+Media movel: 1512 casos.
+----------------------------------------
+Data: 2020-04-06
+Ocorreram 852 casos novos.
+Total acumulado de 11130 casos.
+Media movel: 1493 casos.
+----------------------------------------
+Data: 2020-04-07
+Ocorreram 926 casos novos.
+Total acumulado de 12056 casos.
+Media movel: 1577 casos.
+----------------------------------------
+Data: 2020-04-08
+Ocorreram 1661 casos novos.
+Total acumulado de 13717 casos.
+Media movel: 1625 casos.
+----------------------------------------
+Data: 2020-04-09
+Ocorreram 2210 casos novos.
+Total acumulado de 15927 casos.
+Media movel: 1649 casos.
+----------------------------------------
+Data: 2020-04-10
+Ocorreram 1930 casos novos.
+Total acumulado de 17857 casos.
+Media movel: 1770 casos.
+----------------------------------------
+Data: 2020-04-11
+Ocorreram 1781 casos novos.
+Total acumulado de 19638 casos.
+Media movel: 1795 casos.
+----------------------------------------
+Data: 2020-04-12
+Ocorreram 1089 casos novos.
+Total acumulado de 20727 casos.
+Media movel: 2006 casos.
+----------------------------------------
+Data: 2020-04-13
+Ocorreram 1442 casos novos.
+Total acumulado de 22169 casos.
+Media movel: 2267 casos.
+----------------------------------------
+Data: 2020-04-14
+Ocorreram 1261 casos novos.
+Total acumulado de 23430 casos.
+Media movel: 2355 casos.
+----------------------------------------
+Data: 2020-04-15
+Ocorreram 1832 casos novos.
+Total acumulado de 25262 casos.
+Media movel: 2450 casos.
+----------------------------------------
+Data: 2020-04-16
+Ocorreram 3058 casos novos.
+Total acumulado de 28320 casos.
+Media movel: 2545 casos.
+----------------------------------------
+Data: 2020-04-17
+Ocorreram 2105 casos novos.
+Total acumulado de 30425 casos.
+Media movel: 2491 casos.
+----------------------------------------
+Data: 2020-04-18
+Ocorreram 3257 casos novos.
+Total acumulado de 33682 casos.
+Media movel: 2724 casos.
+----------------------------------------
+Data: 2020-04-19
+Ocorreram 2917 casos novos.
+Total acumulado de 36599 casos.
+Media movel: 2759 casos.
+----------------------------------------
+Data: 2020-04-20
+Ocorreram 2055 casos novos.
+Total acumulado de 38654 casos.
+Media movel: 3130 casos.
+----------------------------------------
+Data: 2020-04-21
+Ocorreram 1927 casos novos.
+Total acumulado de 40581 casos.
+Media movel: 3319 casos.
+----------------------------------------
+Data: 2020-04-22
+Ocorreram 2498 casos novos.
+Total acumulado de 43079 casos.
+Media movel: 3703 casos.
+----------------------------------------
+Data: 2020-04-23
+Ocorreram 2678 casos novos.
+Total acumulado de 45757 casos.
+Media movel: 4115 casos.
+----------------------------------------
+Data: 2020-04-24
+Ocorreram 3735 casos novos.
+Total acumulado de 49492 casos.
+Media movel: 4629 casos.
+----------------------------------------
+Data: 2020-04-25
+Ocorreram 3503 casos novos.
+Total acumulado de 52995 casos.
+Media movel: 5127 casos.
+----------------------------------------
+Data: 2020-04-26
+Ocorreram 5514 casos novos.
+Total acumulado de 58509 casos.
+Media movel: 5513 casos.
+----------------------------------------
+Data: 2020-04-27
+Ocorreram 3379 casos novos.
+Total acumulado de 61888 casos.
+Media movel: 5436 casos.
+----------------------------------------
+Data: 2020-04-28
+Ocorreram 4613 casos novos.
+Total acumulado de 66501 casos.
+Media movel: 5608 casos.
+----------------------------------------
+Data: 2020-04-29
+Ocorreram 5385 casos novos.
+Total acumulado de 71886 casos.
+Media movel: 5897 casos.
+----------------------------------------
+Data: 2020-04-30
+Ocorreram 6276 casos novos.
+Total acumulado de 78162 casos.
+Media movel: 6118 casos.
+----------------------------------------
+Data: 2020-05-01
+Ocorreram 7218 casos novos.
+Total acumulado de 85380 casos.
+Media movel: 6722 casos.
+----------------------------------------
+Data: 2020-05-02
+Ocorreram 6209 casos novos.
+Total acumulado de 91589 casos.
+Media movel: 7104 casos.
+----------------------------------------
+Data: 2020-05-03
+Ocorreram 4970 casos novos.
+Total acumulado de 96559 casos.
+Media movel: 7677 casos.
+----------------------------------------
+Data: 2020-05-04
+Ocorreram 4588 casos novos.
+Total acumulado de 101147 casos.
+Media movel: 8483 casos.
+----------------------------------------
+Data: 2020-05-05
+Ocorreram 6633 casos novos.
+Total acumulado de 107780 casos.
+Media movel: 8793 casos.
+----------------------------------------
+Data: 2020-05-06
+Ocorreram 6935 casos novos.
+Total acumulado de 114715 casos.
+Media movel: 8650 casos.
+----------------------------------------
+Data: 2020-05-07
+Ocorreram 10503 casos novos.
+Total acumulado de 125218 casos.
+Media movel: 8982 casos.
+----------------------------------------
+Data: 2020-05-08
+Ocorreram 9888 casos novos.
+Total acumulado de 135106 casos.
+Media movel: 9108 casos.
+----------------------------------------
+Data: 2020-05-09
+Ocorreram 10222 casos novos.
+Total acumulado de 145328 casos.
+Media movel: 9687 casos.
+----------------------------------------
+Data: 2020-05-10
+Ocorreram 10611 casos novos.
+Total acumulado de 155939 casos.
+Media movel: 10414 casos.
+----------------------------------------
+Data: 2020-05-11
+Ocorreram 6760 casos novos.
+Total acumulado de 162699 casos.
+Media movel: 11029 casos.
+----------------------------------------
+Data: 2020-05-12
+Ocorreram 5632 casos novos.
+Total acumulado de 168331 casos.
+Media movel: 11197 casos.
+----------------------------------------
+Data: 2020-05-13
+Ocorreram 9258 casos novos.
+Total acumulado de 177589 casos.
+Media movel: 12270 casos.
+----------------------------------------
+Data: 2020-05-14
+Ocorreram 11385 casos novos.
+Total acumulado de 188974 casos.
+Media movel: 13434 casos.
+----------------------------------------
+Data: 2020-05-15
+Ocorreram 13944 casos novos.
+Total acumulado de 202918 casos.
+Media movel: 14658 casos.
+----------------------------------------
+Data: 2020-05-16
+Ocorreram 15305 casos novos.
+Total acumulado de 218223 casos.
+Media movel: 15310 casos.
+----------------------------------------
+Data: 2020-05-17
+Ocorreram 14919 casos novos.
+Total acumulado de 233142 casos.
+Media movel: 16095 casos.
+----------------------------------------
+Data: 2020-05-18
+Ocorreram 7938 casos novos.
+Total acumulado de 241080 casos.
+Media movel: 16322 casos.
+----------------------------------------
+Data: 2020-05-19
+Ocorreram 13140 casos novos.
+Total acumulado de 254220 casos.
+Media movel: 17447 casos.
+----------------------------------------
+Data: 2020-05-20
+Ocorreram 17408 casos novos.
+Total acumulado de 271628 casos.
+Media movel: 17240 casos.
+----------------------------------------
+Data: 2020-05-21
+Ocorreram 19951 casos novos.
+Total acumulado de 291579 casos.
+Media movel: 17085 casos.
+----------------------------------------
+Data: 2020-05-22
+Ocorreram 18508 casos novos.
+Total acumulado de 310087 casos.
+Media movel: 17177 casos.
+----------------------------------------
+Data: 2020-05-23
+Ocorreram 20803 casos novos.
+Total acumulado de 330890 casos.
+Media movel: 18307 casos.
+----------------------------------------
+Data: 2020-05-24
+Ocorreram 16508 casos novos.
+Total acumulado de 347398 casos.
+Media movel: 19182 casos.
+----------------------------------------
+Data: 2020-05-25
+Ocorreram 15813 casos novos.
+Total acumulado de 363211 casos.
+Media movel: 21577 casos.
+----------------------------------------
+Data: 2020-05-26
+Ocorreram 11687 casos novos.
+Total acumulado de 374898 casos.
+Media movel: 21663 casos.
+----------------------------------------
+Data: 2020-05-27
+Ocorreram 16324 casos novos.
+Total acumulado de 391222 casos.
+Media movel: 21650 casos.
+----------------------------------------
+Data: 2020-05-28
+Ocorreram 20599 casos novos.
+Total acumulado de 411821 casos.
+Media movel: 23452 casos.
+----------------------------------------
+Data: 2020-05-29
+Ocorreram 26417 casos novos.
+Total acumulado de 438238 casos.
+Media movel: 24599 casos.
+----------------------------------------
+Data: 2020-05-30
+Ocorreram 26928 casos novos.
+Total acumulado de 465166 casos.
+Media movel: 25242 casos.
+----------------------------------------
+Data: 2020-05-31
+Ocorreram 33274 casos novos.
+Total acumulado de 498440 casos.
+Media movel: 25799 casos.
+----------------------------------------
+Data: 2020-06-01
+Ocorreram 16409 casos novos.
+Total acumulado de 514849 casos.
+Media movel: 24914 casos.
+----------------------------------------
+Data: 2020-06-02
+Ocorreram 11598 casos novos.
+Total acumulado de 526447 casos.
+Media movel: 25273 casos.
+----------------------------------------
+Data: 2020-06-03
+Ocorreram 28936 casos novos.
+Total acumulado de 555383 casos.
+Media movel: 25852 casos.
+----------------------------------------
+Data: 2020-06-04
+Ocorreram 28633 casos novos.
+Total acumulado de 584016 casos.
+Media movel: 26303 casos.
+----------------------------------------
+Data: 2020-06-05
+Ocorreram 30916 casos novos.
+Total acumulado de 614932 casos.
+Media movel: 26914 casos.
+----------------------------------------
+Data: 2020-06-06
+Ocorreram 30830 casos novos.
+Total acumulado de 645762 casos.
+Media movel: 26842 casos.
+----------------------------------------
+Data: 2020-06-07
+Ocorreram 27075 casos novos.
+Total acumulado de 672837 casos.
+Media movel: 26150 casos.
+----------------------------------------
+Data: 2020-06-08
+Ocorreram 18921 casos novos.
+Total acumulado de 691758 casos.
+Media movel: 25382 casos.
+----------------------------------------
+Data: 2020-06-09
+Ocorreram 15654 casos novos.
+Total acumulado de 707412 casos.
+Media movel: 25124 casos.
+----------------------------------------
+Data: 2020-06-10
+Ocorreram 32091 casos novos.
+Total acumulado de 739503 casos.
+Media movel: 25837 casos.
+----------------------------------------
+Data: 2020-06-11
+Ocorreram 32913 casos novos.
+Total acumulado de 772416 casos.
+Media movel: 26241 casos.
+----------------------------------------
+Data: 2020-06-12
+Ocorreram 30412 casos novos.
+Total acumulado de 802828 casos.
+Media movel: 26137 casos.
+----------------------------------------
+Data: 2020-06-13
+Ocorreram 25982 casos novos.
+Total acumulado de 828810 casos.
+Media movel: 25045 casos.
+----------------------------------------
+Data: 2020-06-14
+Ocorreram 21704 casos novos.
+Total acumulado de 850514 casos.
+Media movel: 29158 casos.
+----------------------------------------
+Data: 2020-06-15
+Ocorreram 17110 casos novos.
+Total acumulado de 867624 casos.
+Media movel: 31009 casos.
+----------------------------------------
+Data: 2020-06-16
+Ocorreram 20647 casos novos.
+Total acumulado de 888271 casos.
+Media movel: 31059 casos.
+----------------------------------------
+Data: 2020-06-17
+Ocorreram 34918 casos novos.
+Total acumulado de 923189 casos.
+Media movel: 31171 casos.
+----------------------------------------
+Data: 2020-06-18
+Ocorreram 32188 casos novos.
+Total acumulado de 955377 casos.
+Media movel: 31817 casos.
+----------------------------------------
+Data: 2020-06-19
+Ocorreram 22765 casos novos.
+Total acumulado de 978142 casos.
+Media movel: 33322 casos.
+----------------------------------------
+Data: 2020-06-20
+Ocorreram 54771 casos novos.
+Total acumulado de 1032913 casos.
+Media movel: 35710 casos.
+----------------------------------------
+Data: 2020-06-21
+Ocorreram 34666 casos novos.
+Total acumulado de 1067579 casos.
+Media movel: 34580 casos.
+----------------------------------------
+Data: 2020-06-22
+Ocorreram 17459 casos novos.
+Total acumulado de 1085038 casos.
+Media movel: 35155 casos.
+----------------------------------------
+Data: 2020-06-23
+Ocorreram 21432 casos novos.
+Total acumulado de 1106470 casos.
+Media movel: 37015 casos.
+----------------------------------------
+Data: 2020-06-24
+Ocorreram 39436 casos novos.
+Total acumulado de 1145906 casos.
+Media movel: 37389 casos.
+----------------------------------------
+Data: 2020-06-25
+Ocorreram 42725 casos novos.
+Total acumulado de 1188631 casos.
+Media movel: 36591 casos.
+----------------------------------------
+Data: 2020-06-26
+Ocorreram 39483 casos novos.
+Total acumulado de 1228114 casos.
+Media movel: 37160 casos.
+----------------------------------------
+Data: 2020-06-27
+Ocorreram 46860 casos novos.
+Total acumulado de 1274974 casos.
+Media movel: 38392 casos.
+----------------------------------------
+Data: 2020-06-28
+Ocorreram 38693 casos novos.
+Total acumulado de 1313667 casos.
+Media movel: 37730 casos.
+----------------------------------------
+Data: 2020-06-29
+Ocorreram 30476 casos novos.
+Total acumulado de 1344143 casos.
+Media movel: 37620 casos.
+----------------------------------------
+Data: 2020-06-30
+Ocorreram 24052 casos novos.
+Total acumulado de 1368195 casos.
+Media movel: 36987 casos.
+----------------------------------------
+Data: 2020-07-01
+Ocorreram 33846 casos novos.
+Total acumulado de 1402041 casos.
+Media movel: 36441 casos.
+----------------------------------------
+Data: 2020-07-02
+Ocorreram 46712 casos novos.
+Total acumulado de 1448753 casos.
+Media movel: 38078 casos.
+----------------------------------------
+Data: 2020-07-03
+Ocorreram 48105 casos novos.
+Total acumulado de 1496858 casos.
+Media movel: 37772 casos.
+----------------------------------------
+Data: 2020-07-04
+Ocorreram 42223 casos novos.
+Total acumulado de 1539081 casos.
+Media movel: 36989 casos.
+----------------------------------------
+Data: 2020-07-05
+Ocorreram 37923 casos novos.
+Total acumulado de 1577004 casos.
+Media movel: 37392 casos.
+----------------------------------------
+Data: 2020-07-06
+Ocorreram 26051 casos novos.
+Total acumulado de 1603055 casos.
+Media movel: 37549 casos.
+----------------------------------------
+Data: 2020-07-07
+Ocorreram 20229 casos novos.
+Total acumulado de 1623284 casos.
+Media movel: 37375 casos.
+----------------------------------------
+Data: 2020-07-08
+Ocorreram 45305 casos novos.
+Total acumulado de 1668589 casos.
+Media movel: 37383 casos.
+----------------------------------------
+Data: 2020-07-09
+Ocorreram 44571 casos novos.
+Total acumulado de 1713160 casos.
+Media movel: 36891 casos.
+----------------------------------------
+Data: 2020-07-10
+Ocorreram 42619 casos novos.
+Total acumulado de 1755779 casos.
+Media movel: 36227 casos.
+----------------------------------------
+Data: 2020-07-11
+Ocorreram 45048 casos novos.
+Total acumulado de 1800827 casos.
+Media movel: 36625 casos.
+----------------------------------------
+Data: 2020-07-12
+Ocorreram 39023 casos novos.
+Total acumulado de 1839850 casos.
+Media movel: 35072 casos.
+----------------------------------------
+Data: 2020-07-13
+Ocorreram 24831 casos novos.
+Total acumulado de 1864681 casos.
+Media movel: 33573 casos.
+----------------------------------------
+Data: 2020-07-14
+Ocorreram 20286 casos novos.
+Total acumulado de 1884967 casos.
+Media movel: 33387 casos.
+----------------------------------------
+Data: 2020-07-15
+Ocorreram 41857 casos novos.
+Total acumulado de 1926824 casos.
+Media movel: 33383 casos.
+----------------------------------------
+Data: 2020-07-16
+Ocorreram 39924 casos novos.
+Total acumulado de 1966748 casos.
+Media movel: 33261 casos.
+----------------------------------------
+Data: 2020-07-17
+Ocorreram 45403 casos novos.
+Total acumulado de 2012151 casos.
+Media movel: 37252 casos.
+----------------------------------------
+Data: 2020-07-18
+Ocorreram 34177 casos novos.
+Total acumulado de 2046328 casos.
+Media movel: 39332 casos.
+----------------------------------------
+Media Geral: 11051
+Mediana: 1781
+Desvio Padrao: 15364
+Coeficiente de Variacao: 1.39034
+----------------------------------------
