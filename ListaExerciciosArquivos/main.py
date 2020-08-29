@@ -41,3 +41,30 @@ with open('arquivo.txt', 'r') as arquivo:
     for letra, quantidade in zip(alfabeto, letras):
         resultado += f'{letra}:{quantidade} '
     print(resultado)
+
+# Exercício 6
+# Solucao 1
+with open('arquivo.txt', 'r') as arquivo:
+    for linha in arquivo:
+        texto = (linha.strip().replace('a', '*')
+                 .replace('e', '*')
+                 .replace('i', '*')
+                 .replace('o', '*')
+                 .replace('u', '*'))
+        print(texto)
+
+# Solucao 2
+import re
+with open('arquivo.txt', 'r') as arquivo:
+    for linha in arquivo:
+        texto = re.sub(r'[aeiou]', '*', linha.strip())
+        print(texto)
+
+# Exercício 7
+origem = input('Digite o arquivo de origem: ')
+destino = input('Digite o arquivo de destino: ')
+
+with open(origem, 'r') as leitura:
+    with open(destino, 'w') as escrita:
+        for linha in leitura:
+            escrita.write(linha.upper())
