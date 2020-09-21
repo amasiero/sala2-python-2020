@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Meus Padawans</title>
+    <style>
+        h1 {
+            font-size: 60px;
+            font-family: "Roboto", "Lucida Grande", Verdana, Arial, sans-serif;
+            color: blue;
+            text-align: center;
+            transition: all 2s ease-in-out;
+        }
+
+        h1:hover {
+            transform: scale(2) rotate(180deg);
+        }
+
+        h2 {
+            color: purple;
+            transition: all 500ms ease-in-out;
+        }
+
+        h2:hover {
+            color: black;
+            opacity: 60%;
+        }
+
+        p {
+            font-family: "Roboto", "Lucida Grande", Verdana, Arial, sans-serif;
+            font-size: 16px;
+            font-weight: bold;
+            font-style: italic;
+            color: lightslategrey;
+            text-decoration: underline;
+        }
+
+        .container{
+            display: flex;
+            width: 100%;
+            height: 450px;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        #one, #two, #three, #four, #five {
+            width: 200px;
+            height: 200px;
+        }
+
+        #one {
+            background: purple;
+        }
+
+        #two {
+            background: red;
+        }
+
+        #three {
+            background: blue;
+        }
+
+        #four {
+            background: linear-gradient(to right, darkblue, darkred);
+        }
+
+        #five {
+            background: lightslategrey;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Olá Flask!</h1>
+    <h2>Meus Padawans, sejam bem-vindos!</h2>
+    <p>{{ nome }}</p>
+    <div class="container">
+        <div id="one">1</div>
+        <div id="two">2</div>
+        <div id="three">3</div>
+        <div id="four">4</div>
+        <div id="five">5</div>
+    </div>
+</body>
+</html>
