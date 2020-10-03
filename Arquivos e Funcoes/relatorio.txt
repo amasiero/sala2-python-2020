@@ -1,0 +1,100 @@
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'invalido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'invalido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'invalido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'invalido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'invalido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'invalido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'invalido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'invalido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'invalido', 'localidade': 'Reino Unido'}
+{'nome': 'invalido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'invalido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'invalido', 'email': 'invalido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'invalido', 'email': 'invalido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'invalido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'invalido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'invalido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Alemanha'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'invalido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Reino Unido'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'invalido', 'telefone': 'invalido', 'localidade': ''}
+{'nome': 'valido', 'email': 'valido', 'celular': 'valido', 'telefone': 'valido', 'localidade': 'Brasil'}
